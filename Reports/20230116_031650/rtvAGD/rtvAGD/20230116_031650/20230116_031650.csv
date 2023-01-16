@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+rtvAGD,Chrome 108.0.0.0,,,2023-01-16 03:17:02,2023-01-16 03:17:29,"27,260s",PASSED
+,,,,,,,
+Test Cases/Logowanie/Logowanie_rtvAGD,Chrome 108.0.0.0,,,2023-01-16 03:17:03,2023-01-16 03:17:29,"25,831s",PASSED
+openBrowser(url1),Chrome 108.0.0.0,,,2023-01-16 03:17:05,2023-01-16 03:17:12,"7,048s",PASSED
+"click(findTestObject(""Object Repository/Strona1/Edit_cookies""))",Chrome 108.0.0.0,,,2023-01-16 03:17:12,2023-01-16 03:17:13,"1,040s",PASSED
+"click(findTestObject(""Object Repository/Strona1/Confirm_all_cookies""))",Chrome 108.0.0.0,,,2023-01-16 03:17:13,2023-01-16 03:17:14,"0,807s",PASSED
+"setText(findTestObject(""Strona1/Wyszukiwanie""), Wyszukanie)",Chrome 108.0.0.0,,,2023-01-16 03:17:14,2023-01-16 03:17:16,"1,792s",PASSED
+"click(findTestObject(""Object Repository/Strona1/Search""))",Chrome 108.0.0.0,,,2023-01-16 03:17:16,2023-01-16 03:17:18,"2,617s",PASSED
+"click(findTestObject(""Object Repository/Strona1/Zaloguj_sie""))",Chrome 108.0.0.0,,,2023-01-16 03:17:18,2023-01-16 03:17:21,"2,623s",PASSED
+"setText(findTestObject(""Strona1/Input_Imię""), Imie)",Chrome 108.0.0.0,,,2023-01-16 03:17:21,2023-01-16 03:17:22,"1,279s",PASSED
+"setText(findTestObject(""Strona1/Input_Nazwisko""), Nazwisko)",Chrome 108.0.0.0,,,2023-01-16 03:17:22,2023-01-16 03:17:23,"1,291s",PASSED
+"setText(findTestObject(""Strona1/Input_E-mail""), Email)",Chrome 108.0.0.0,,,2023-01-16 03:17:23,2023-01-16 03:17:24,"1,049s",PASSED
+"setText(findTestObject(""Strona1/Input_Hasło""), Haslo)",Chrome 108.0.0.0,,,2023-01-16 03:17:24,2023-01-16 03:17:25,"1,027s",PASSED
+"setText(findTestObject(""Strona1/Input_Powtorz_Hasło""), Haslo2)",Chrome 108.0.0.0,,,2023-01-16 03:17:25,2023-01-16 03:17:26,"0,980s",PASSED
+"blad = getText(findTestObject(""Object Repository/Strona1/Bład""))",Chrome 108.0.0.0,,,2023-01-16 03:17:26,2023-01-16 03:17:27,"0,586s",PASSED
+assert error == blad,Chrome 108.0.0.0,,,2023-01-16 03:17:27,2023-01-16 03:17:27,"0,003s",PASSED
+closeBrowser(),Chrome 108.0.0.0,,,2023-01-16 03:17:27,2023-01-16 03:17:29,"1,738s",PASSED

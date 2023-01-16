@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Xkom</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>646ede2f-57b3-4c1f-a48a-afdf4c06e231</testSuiteGuid>
+   <testCaseLink>
+      <guid>d1496469-64be-4662-b899-ae2693b21743</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Logowanie/Logowanie_xkom</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>de89467c-a992-4a8b-96fe-0d4c88b56d18</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Xkom (1)</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>10721cdc-6772-4c77-881e-3a6fa6fee951</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de89467c-a992-4a8b-96fe-0d4c88b56d18</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Imie</value>
+         <variableId>fab2ec68-aafd-4e07-a0cd-c7bcc5780c79</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de89467c-a992-4a8b-96fe-0d4c88b56d18</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nazwisko</value>
+         <variableId>522530cb-d68b-49bf-88da-56261d07f05e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de89467c-a992-4a8b-96fe-0d4c88b56d18</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>dc596b56-0248-446f-b690-bd0fe3a53119</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de89467c-a992-4a8b-96fe-0d4c88b56d18</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Haslo</value>
+         <variableId>9f3d2a16-fec7-435e-bce2-2c74febeef3d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Zaloguj_sie</name>
+   <tag></tag>
+   <elementGuidId>fc4cf7f2-4521-41c3-9ccc-36e379728479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[class=&quot;user-login&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>http://www.w3.org/2000/svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

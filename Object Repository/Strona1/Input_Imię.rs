@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Imię</name>
+   <tag></tag>
+   <elementGuidId>1fc5a290-d7a4-4679-8ef5-47b6fad3b83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[class=&quot;selenium-O-register-form-firstname&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

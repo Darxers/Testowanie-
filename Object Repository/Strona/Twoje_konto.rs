@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Twoje_konto</name>
+   <tag></tag>
+   <elementGuidId>0587e5ed-de68-4dc3-980d-d577735457fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[href=&quot;/konto&quot;]
+</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>http://www.w3.org/2000/svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
